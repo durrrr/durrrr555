@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Henry",
+  "age": 39,
+  "address": {
+    "street": "Guake Highway",
+    "city": "Tapomaz",
+    "state": "WA",
+    "zip": "95797"
+  },
+  "contact": {
+    "phone": "(243) 471-3803",
+    "servicePhone": "800197139"
+  },
+  "birthday": "1988-05-27T14:22:54.841Z",
+  "ip": "251.213.68.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Jan metmuz me fe ogukice ziblo iptili fo ipjo ge zo ja cuhlighep aztep pa fetezfez mowheare. Mutsaow rak wocinow gud badbe guhodudo tem nozes uzwu no gipwunje icade geiloju fechuena oniuna he mawgojow. Todej tucesido foj ihodu diojadut zagze nuztuliz vel pibu bipis dehzim otpe. Obumo wadut ofu mifo ha ugi kahelu dimek juh wekwup dehiscel bo karupo iduveffa puk.",
+    "bio": "Bic afpolira fip uma ahazu irlipuse ki sialapal majis faw adasoaju tep ibsuusa rumdehi. Perdop fuuca il vipkioh mujuvfa advef wa ub si sumo vu tufidem cotzesi neljuni. Icge samgu ko pifeis louh kop fe na taf ho izahaon sumri caugagu ehovegcor waj molisso leg. Vefof donewe cikerjo um jocwunis bupoje zihbek sihes limowupe inarimgo gimendi ritcial is godaz gahsik vulru. Buvzutuw rohab fofha bupi lohosho ro ecafanaj ih rukiz pas ra jil. Ucu zihi zorwugnul pucofo naddiher bim obune jig avu wuda digilsi telfi etusi owi zisa vujula hotzikdi telapi."
+  },
+  "apiKey": "d523e1c94b4110d76154fa04117be9cbac66583757a7eeff0f3f3805f80c8c81",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
