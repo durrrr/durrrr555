@@ -1,0 +1,26 @@
+{
+  "name": "Steven Patterson",
+  "age": 45,
+  "address": {
+    "street": "Wawa Center",
+    "city": "Popwiji",
+    "state": "HI",
+    "zip": "79522"
+  },
+  "contact": {
+    "phone": "(911) 347-9659",
+    "servicePhone": "800855481"
+  },
+  "birthday": "1987-10-17T09:28:44.419Z",
+  "ip": "80.115.220.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Vop jolnorvu ziur cu sacmihse hi jad hol et at soc timsipi kom ojuegi atgeha. Becir liwsatur gacarub loki poj esuuka itzul zozcuc kago jiros kawil ad buroeja etwacep kic piw. Pizipa ka il rekufa rug nuczeiz ve hag mujhadod honbamce docboazo vobesfem va ed aj sivpa.",
+    "bio": "Big nef le diz eri giuma tiwzo cenhet fijew leveg faefa uhi tekpu vew ipniore maromam pifi cuza. Wa pikpe tu tutjo onigucof jome rogotdih mevba wobsuteh ise bopignin koverupa. Ridne onudo fikaswem tosa lujrozuc wosof wesoh ut ni re wemufhem pa uj utajueb. Ifuapvop wufharob gefdir esuvovac pigak fuuta sezdozud la miftunza saf ni jiw. Edosaweg osapafhe vi majhi wicej sibdevum siguhdih itgeg cu forhafu worikdi wi bofifara gozez cizufmid. Ziw usojojjan ve doapo de urji mi setke fe nabli ce or gomupzak fathu joaje vavi ug. Ci zullege mowloz tewjijow rejih ge wifismu ar pudig buzbe mi umu."
+  },
+  "apiKey": "a74b92bc6bc283cb6f6506061d5e5acc373beed050df2d56df6b80980b823534",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
