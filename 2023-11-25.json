@@ -1,0 +1,26 @@
+{
+  "name": "Ada Bridges",
+  "age": 46,
+  "address": {
+    "street": "Pimsut Park",
+    "city": "Cahifuwit",
+    "state": "GA",
+    "zip": "85358"
+  },
+  "contact": {
+    "phone": "(562) 515-1788",
+    "servicePhone": "800177429"
+  },
+  "birthday": "1967-09-14T12:15:15.974Z",
+  "ip": "220.167.238.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Giolfa vu firihni dowziwok aloirjo tonrazme cim ekule mubukaf ujvolaw mem ezobu. Kofi imru os hud cuwwa iloruwo emozeb ufezij bajzek do mi ohwur ba resomva jodfi. Lu siw kocah zahran awi ah tihewju meof tebzoclok hasjamic se has gebap ni rewwer nozugodaf vi mu. Ti go cazudid nef udselgef tawmuka evdu sug tuwediw jeciraj pigenid desaw. Dozhi tikurej linaowo lu ne etaseman wik gid ew diwukom cija uktef itjavfer behowwog jobuf. Dabcegiz enesenos liclor wegow cezij kuunerek toabto afezanod rospa ve ogar ef fup zahapcig mendan jafaeca nolubha.",
+    "bio": "Tof mublaj ufiju wiljo lutef bibveas totkobe olu waipejaj ro ockac jomrik ca. Fiz aweiku loncewu kab vawi jo ehjufiv pa hizilro sujmugin sop ji neibu aromuha lu. Fuakemel gasdapu tagruc had viplur juf ojailu lom casu og veje koczaeko isukas enu vevocij. Guwfu zaj jivow owa wu vek jarniruw fu lool mihlo keujaro cos gapoad fuwezapo ovakooh mol zewe. Ve li tijzif toubse julsoip eba rucib fosvefup tofopo he medalnoc aksi da mo. Riw pongoj zabica fukfub faw ram mo viv nasuv ajo tej pevwi ov refu ja. Je ru be biwmok zezus hewej gufela pawibi sejmidaz lozne ojocu seb."
+  },
+  "apiKey": "32ee7e222a6ceda1b3c213bfab8c19d8969a862295896d41654bb8384636aeca",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
