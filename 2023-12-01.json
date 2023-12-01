@@ -1,0 +1,26 @@
+{
+  "name": "Lola Price",
+  "age": 53,
+  "address": {
+    "street": "Taki Square",
+    "city": "Mokgogum",
+    "state": "VT",
+    "zip": "62683"
+  },
+  "contact": {
+    "phone": "(282) 597-8895",
+    "servicePhone": "800918575"
+  },
+  "birthday": "1996-06-09T11:00:40.017Z",
+  "ip": "92.73.238.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Avfoto wuzehhu livupku toroj fove kinawij tileb sukgor wuk min haapu odida ricirpeg hu. Kamve kebajji kamovat uzbobuh set hero re guos boruboag zecowej ju uhi apivan. Dup le fodir asi haj vu uw luziteru konhogu jujo la fuwge nivaz hafi oscegho epjuwca genalale.",
+    "bio": "Emuer bi zerumme uvzuc fozawid dosomme web og caikusuf hadwa siisji wokedi si jecvot lopappoc fopgole mitoda. Wi ozegipi begom pepawe iv higjor sejo nimguk faowuwin efacwuw etiijnu noovidi dovap. Baurpi nuhepo ez ol liminu gefe jif tumaji mew il picjifolo ticofos hevhojvo. Mo owuwga absu ka woncuhed ha lub ac bakcuw zap uz bowsuda wal zac pouncah ape dazibed. Geg ujeolebi da tecu jobput zugu isabir jakospe bezivowe najipog wiigi supe covu zu tosu zapuvin. Beli sirepfu efijidoh ujpitze doboptu kutuche joj otaro aca kobkotha dazisumiz di riw jujvu. Cof vewiste kirji jofam tood hub hobu wopirpo pepo izu apinoj oliveh foscud."
+  },
+  "apiKey": "73128d44ac5b264dd870080aee3c60226fd72f27335727b1248f9dbb7527080b",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
