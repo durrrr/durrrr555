@@ -1,0 +1,26 @@
+{
+  "name": "Donald Pearson",
+  "age": 48,
+  "address": {
+    "street": "Pasilu Glen",
+    "city": "Ruahceg",
+    "state": "OR",
+    "zip": "70762"
+  },
+  "contact": {
+    "phone": "(403) 379-3211",
+    "servicePhone": "800356547"
+  },
+  "birthday": "1987-07-29T06:37:59.933Z",
+  "ip": "26.116.199.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Nug riwwezeb nowzase polegifo umaiknut repcibab fefpacev izcenuj susiwa ovu sat ditsec bankani lunke. Ap dus woew ji lilha guvel wacuj wegofag paebigez gemi saf govhu. Piz ujirisul jo soijlor evamemas keg ak iwecunufa rade hiteb sepnot fakjonko pojijzir wafpi balmi ibavo lo. Igi kig enale evu zucjucpa kiefoduj biw esu jej zildofuv fapnovoj niwavi. Mop afi ezwa cuocnur dizovtit lel butoep sicdacav hohgeicu co keemu low agnu touro wudoes ahuuzda.",
+    "bio": "Ebdih po fugbo pe vuspoz ubji teviseivu de ajhevcul we bi vibot irsa zer. Becgu rukew cisubu lib edwow ca uchetuca roona ta me azgirul recehib be ifa. Gikez owacetef inoow geh nid tedocdi kip mudnowwe uh uvaroda ahtikem fop leco oni odidot."
+  },
+  "apiKey": "7439611365709ec0820f61fe2db6db44fe3f80db3af16db6687deb0efb069a1c",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
