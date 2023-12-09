@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Torres",
+  "age": 36,
+  "address": {
+    "street": "Elor Lane",
+    "city": "Ruolhar",
+    "state": "AZ",
+    "zip": "50999"
+  },
+  "contact": {
+    "phone": "(206) 311-2087",
+    "servicePhone": "800722752"
+  },
+  "birthday": "2000-08-27T03:07:55.054Z",
+  "ip": "190.101.197.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Po tir ap wo ifa zefel si sabat hiziw hola sampa lun datuom suj disgukak keblel hofguz. Ca ejah wot lu daso doserpo cod akitowo etoha lofwi gepjehan munum pihrunna nule ohemur hiure neverurid. Ku uwedu ab za va wiszeraga kec redkoet fat do vingoj nu eke gawi zuzejic.",
+    "bio": "Desa ufaleg fi holemo de hedisu losinore jevead ke opsu um tivicobur. Enpiva ta ena zic ruc negsusev atuuveap tubihear sa we vek gojer oz id aw voobufa. Ezviin ilveul mutwabpaj zupivdi bazupil jaoboma giber irsa gutga jizowe vuevirag bu."
+  },
+  "apiKey": "1bf914e0cf7688f9b13de3169cf017361638f391119598c52586ce6119aa0568",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
