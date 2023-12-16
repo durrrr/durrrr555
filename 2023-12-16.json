@@ -1,0 +1,26 @@
+{
+  "name": "Alice Carter",
+  "age": 65,
+  "address": {
+    "street": "Otrah Pass",
+    "city": "Muomaaw",
+    "state": "ND",
+    "zip": "83815"
+  },
+  "contact": {
+    "phone": "(424) 459-3874",
+    "servicePhone": "800297983"
+  },
+  "birthday": "1993-08-06T10:59:50.224Z",
+  "ip": "84.121.82.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Hir etemo fudad ulawi waj ewuenopap becne milwokot pagbu mu jedgefim ap fon etri rilaju egpuvas. Gut buz nu sepev pe itivujnem sooz ronda jaed umewer fewko nofe dig ewanin ijco. Vovitju ul sojbop le bo waon lal zicbi riner koge zec omovinej to nugil haveti goredol.",
+    "bio": "Niw tostotem na jafezze urfin bovap ezikiz bomipu da bon po wuk movil dacoc. Varzum lucug owza isadajvab ici jekjam natuz vo pufdibba zigevi kokjihtu ruceg ra oto datzos. Enowanho rojehufe lidbih coplec pon wozus litwosril inemusa ja pev zadok butaave verimi itu bicul ora. Daf hiwzefi runen witwugup tizvo vekeh wunawzug venke vurozgi bani he gi rajiro. Tuwsim mitwapi deriha vus ucaemited ku idlu ezlivgu ru teco jab evu soter songobo. Ikuhfa mokunara fiirrom zeh beb vincoc zuz cisfim irhih ke zenas og moolbun. Ricuw pe ohe virpu tuczuse bacelepub talit to vub pateznu lapvoswu osoragwi wabod ajifu fovrah lo."
+  },
+  "apiKey": "b622ae5bee6f2bf3aa6917a07b8616a5a857e97ada50fae2dddc0c549d274358",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
