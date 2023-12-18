@@ -1,0 +1,26 @@
+{
+  "name": "Annie Bowers",
+  "age": 21,
+  "address": {
+    "street": "Tuhir Point",
+    "city": "Cegovgi",
+    "state": "IA",
+    "zip": "12495"
+  },
+  "contact": {
+    "phone": "(642) 541-6384",
+    "servicePhone": "800872696"
+  },
+  "birthday": "1983-04-18T21:42:58.943Z",
+  "ip": "105.40.252.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Ana kosu gih ajabibwel mezojdig gagilni uhacupjuh ubiaz utepa beczoj hazomev ze juuj kuus reosiop suzreij. Bohide ruwacho zahajsov wuwmiva lof arma jonog uv ika kainfuk lok bo uzijiju. Lapagu ufjo zohkentad me falto wet pez ahahile mikucjo cabforad doom walavto ufawobfo mijpiwo nozrawi eh pafuec. Ur zesleev dog gereshar ew ru ser co wozozuh dibjet kifowvev canpo bofcal nu. Radwaskok idu ene araulwuf lah jajdokile bed pueh haza wocmabin jehaw vapatkam jebem jenes womood ba.",
+    "bio": "Za dug ucwohhid legor gizpaaz husra begijif li ucero kof jimulda elmuwvel palior kactubec kedeh vunwun me gaeb. Kohsu ozjapfa pamev juffa ucari cog od ihaet div lalar wem mito la ojlefeso wo nahocuz. Helapmu azjal cun mufwajsi tidzo fi ebaral iwgaz pi vawmolor suzboje tudogir fiz wat pe. Jatjeuh uphuh wagnuk ja ziluz zeje pegere dociha wiska uwa gof rop."
+  },
+  "apiKey": "6ed7a4da5f7f208b807237cee89ad5cf2a4c78d0791b1b65d58673e51bd5d561",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
