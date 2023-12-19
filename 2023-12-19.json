@@ -1,0 +1,26 @@
+{
+  "name": "Owen Nguyen",
+  "age": 51,
+  "address": {
+    "street": "Fitogi Extension",
+    "city": "Tuhciwo",
+    "state": "DC",
+    "zip": "21976"
+  },
+  "contact": {
+    "phone": "(418) 497-1621",
+    "servicePhone": "800988279"
+  },
+  "birthday": "1985-05-13T20:22:29.561Z",
+  "ip": "173.84.126.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Sug dahih pik ori hosuw rocmitsud fow cer ka savazasin lihonojo cibuzzit ni gewfecim. Kit duklijfuh heb pihusa beokobu tulfuhwap redo ze levil sojtiko okfe rowu puzfipito rer faabali liscatma ma. Rovbe gu er cawoduru so bugil pumnuvdis kelogwu vumaga gissa apeore rahmawir reboh sok joclinjiw wino jufa.",
+    "bio": "Kalab fihik warhi pazup ovmatcub dewize feujosoc pi sewib peful vov govsi gozut etu. Icu isidi zusuf rijir elpom cem egpon cok wohjefa hohmekco dek zozih himup sufjieke gitge femahu. Us wagaw riz lungaja wotjenvap ja cizul mo ecacozrur sumetbow suipo ru fo budivvor zoam cadcuzev vurgopom."
+  },
+  "apiKey": "a19afdac16a11f8b871389680c04e454aeb4ed3faebad8efce976b078830767a",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
