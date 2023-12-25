@@ -1,0 +1,26 @@
+{
+  "name": "Addie McDonald",
+  "age": 32,
+  "address": {
+    "street": "Kersej Road",
+    "city": "Boashih",
+    "state": "AL",
+    "zip": "48126"
+  },
+  "contact": {
+    "phone": "(603) 731-6353",
+    "servicePhone": "800386779"
+  },
+  "birthday": "1969-05-03T18:40:18.496Z",
+  "ip": "41.29.12.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Joehzo dib sog lo togle fufpom apzog cu fi savetju detoiku ewopag pa taniri. Urjosbev cu aniwuj efje vezoju iko wuninez lephafto musir jupbizok fevo jij catud azne guvo mejren. Rikadaj ca itokur hiw kinupgef waiphu fatlanvih jojugdo kuj adtirred rero tilalame ibuoji ugeruen ucamuis cavoda somap puwada. Pu jorju tuliga zun bug poiwa hohub wu melgodif nikeite godtol ita keg wip catju. Najakmik wudwegoh eku zoluzah lu sanga puwtedded se igitok ufaeju ijji eca fucpubjo. Ek ma zonis wifevlup mavkopwip culseg gi ude ripdaha uri poki habar vabnoj sop joguwmow gas.",
+    "bio": "Pizkow toazi nuas sazzinac hanekbo jupdioj ne laoser kacuzda napedaj surzob igofunuv zonohe. Vawlo jivjitze wemi rohi posituri azo nefuhcez lukel su coh pud vehhah tutichel taduv taheem vukdevif baemwef ligi. Gep avojesaj rikkid sa paj jik ok ma nuniz jekib kil laler kowud sebu."
+  },
+  "apiKey": "d59401c68ab827e96d3578a3ee984dbddaf698f09146f260937a35c2a88cd094",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
