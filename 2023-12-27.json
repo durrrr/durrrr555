@@ -1,0 +1,26 @@
+{
+  "name": "Ada George",
+  "age": 23,
+  "address": {
+    "street": "Piwimi Place",
+    "city": "Dutugez",
+    "state": "NC",
+    "zip": "77774"
+  },
+  "contact": {
+    "phone": "(224) 955-4510",
+    "servicePhone": "800729132"
+  },
+  "birthday": "1965-10-18T23:04:11.411Z",
+  "ip": "245.150.236.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Petujpo arwo harsig bi zojitjar ohe bohiha jivlisku zef ricpuhma jin evahadi wan pegte bevpun lod ewazinvat rabgese. Denevge jup faed misniltaz lo kev samcedgaz et et cu ikehot pah ru. Dajinjel iddo wadensur sivac waol cooh ru ur lim gijume huc tane wodu juneuhi. Ibo loh rudupgu sihizo gi utanuvbo zagke zisnunwe ej miwave micfef me mahlu. Be pahapenu ivogem os zo jahe tijasug pit awofinicu camaccu cemvab butzij.",
+    "bio": "Zim upu cies bug wurauw betco tectezjo bizfi anciki lueni vomigag kajlo jur. Saafadu etdi imijal bajse ossevfe wad vu rut eboeziida kof iherujav puctaf sif bodcori. Ruwarnu kaad tep mof ogizijub tocjukgu bufejle ejvisro rertar iwouhtak ce welar za miiri."
+  },
+  "apiKey": "2a95e389173d77c2c223c36a3ab6c711951651f45f46edf1cabd42b4d3b0c14a",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
