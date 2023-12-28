@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Massey",
+  "age": 65,
+  "address": {
+    "street": "Acaazo Square",
+    "city": "Roclamo",
+    "state": "NC",
+    "zip": "49185"
+  },
+  "contact": {
+    "phone": "(824) 250-1238",
+    "servicePhone": "800713961"
+  },
+  "birthday": "1999-09-27T21:58:38.103Z",
+  "ip": "173.216.131.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuvwu tib urwas silma rovi odahu kaghas ik cidhese ahomead fizom mo ipsedehu lapnu. Ecnu devpo tolu kek lirupit fofvec eneazopic bal fe jujna wezi jeviw mo li ni sopmeh wovepi. Mefu kewkaluf soemafac bimal coariwos solubu oveazna pid cul dum haceet cacogvug av fos co nawef. Jis fafme ri japmejli set agiub cowujijiw la we eftaet pacual ebkoz uk ri suze gojcelnu da. Calwuro ma bobem uhe civfeov oguikefiz woos vijta hi oguhe dep zedniklen tetze up.",
+    "bio": "Hibcoeni latwej otweifo figog falpupuji ec rat wa velgufgiz rihu we zal ulas bomusso. Sewhu ibosa jud laphibva nerug foha cehcenor fimwose ozudeksu du bok gem cogeppi sot. Nad hi muc emcen muso cusenher niv ozo uga dokvefo wurejow gozpiw opiwa."
+  },
+  "apiKey": "e29598f0396ef142d5ebaf46f5003b2b8630e49653c03b4a9f2e3cf5e872ba5e",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
