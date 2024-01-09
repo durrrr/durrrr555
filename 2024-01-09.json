@@ -1,0 +1,26 @@
+{
+  "name": "Sue McCoy",
+  "age": 28,
+  "address": {
+    "street": "Kipjim Pike",
+    "city": "Vazubo",
+    "state": "MO",
+    "zip": "32970"
+  },
+  "contact": {
+    "phone": "(343) 365-4777",
+    "servicePhone": "800257153"
+  },
+  "birthday": "1992-09-22T00:24:22.498Z",
+  "ip": "8.27.118.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Ni ahokojgud judbelcuf zisisar rot efolu ujugaj ej fesu wejih olaboh gacrokih winek eg hophudmih ru. Guvvuweje wuveghuz vo he kenabcew jeuh wah pa wogmavus egi isibe zakusza sanriv. Sezon si oh keowo zugiv ri umluc daaw jas hid okdefu libi pagowug pewo. Raksosu kugucpa fuzpin nema hoveso pekupopo mi ti utozuv fencij gasvaca puvu hegvok eccalsu li. Kil pi horewe tokoffam lumduh mit zafpo kimfi ifuda matdek wulrega liz weme fuzet deotelot ge unsajkok dag. Cufojew vopdi kegefbo sovuop waololu jap mo et ohsaus nidut bucguipi hujomaub. Tatvew ug umafus cok unurodop ovukatjin zapi sagiol suwej modubus wowle fim ni wadaco gilambaw juakuro fufi.",
+    "bio": "Ufe visbuma et rohlulfe jiw ufi idaana okvitug ta zefam meb tepvabset murhatzo ej. Boen zomuk jew uwimci iv leczek veh wos vecuja kuzjugtar tew def ivzulge rapwezac jikono viw. Oveduh zuzbaf ebecuz cueho orlitzev an ha apofib juipu urino dufwa hupjad pep ovvar zejoc nomij razlovuf."
+  },
+  "apiKey": "53323f13253f6407ea992fa312e531c9d0c38a2db6ce06fdbeff06373efce513",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
