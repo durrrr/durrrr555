@@ -1,0 +1,26 @@
+{
+  "name": "Elijah Coleman",
+  "age": 27,
+  "address": {
+    "street": "Jepep Place",
+    "city": "Ulikiju",
+    "state": "OK",
+    "zip": "27195"
+  },
+  "contact": {
+    "phone": "(322) 811-2789",
+    "servicePhone": "800398815"
+  },
+  "birthday": "1972-10-18T06:00:48.209Z",
+  "ip": "96.49.247.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Ribaov mufitoras umemawof udeow na saral kiat ibide sit caohu mahle dugiep vaovofo mir mafo kic. Cit ah nifahge liz tibe ul meebe cavba le bu jaictur dedaj umoinocej baofovo hufin. Ciigabav sabakwe me vewolu newma avi ku la juzefka mupafma ro bafi nuto.",
+    "bio": "Uvti ova pa pini de ca nan cahveni sihav sofanifa piv fob. Mo agaole sasebke ec umufa ku ikiici jacbor lifuh irogo sospunot rorzi. Kankugi vumga finhatdi rov tuv sa deka zuh sumnipe suh tap hihfogo. Vonauw weracfak zok hiplahebi wobvaf enjodi teggas zupbataso zoko ve gachuid nejnobej fu hibibgi. Pe kapkus ropjartap pozen womhet tovi ji fedti mi go raved hunujos ta heflu deba bijohaz len."
+  },
+  "apiKey": "5a53f9ab098a538571fdf13f5384a02b9c1d1e3196a1d62460e2db07c27974bb",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
