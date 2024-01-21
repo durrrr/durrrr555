@@ -1,0 +1,26 @@
+{
+  "name": "Helen Johnston",
+  "age": 47,
+  "address": {
+    "street": "Wiezu Highway",
+    "city": "Libuoho",
+    "state": "ND",
+    "zip": "31735"
+  },
+  "contact": {
+    "phone": "(317) 757-9985",
+    "servicePhone": "800573435"
+  },
+  "birthday": "1965-10-05T03:20:23.216Z",
+  "ip": "243.179.161.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Nidiar ginzuzu let odufin buzer lurke atehav nuh rebul pupweku mopa mered vufli ocjatodu eb. Hic isec duzoc luhso juddocoh vu oz mufoco fi asbinut azeron lig. Hatop jauca za opjus jagod suwjorci vus vef kup muwojag go def nop leiktaw dodale.",
+    "bio": "Hoabvef johuda remu bo vegow ilpecbod heuhoj bigjok ama mabmaov ida ocvib dofifi. Iz jo mehicpa lu zeve sugtew sid gegaj vu hehlopvi ne eh. Nasaz jawfar fibluf movul ongeusi vo tuwisaz wasnuwvaf veh rofon cakdocwig zad. Eduku kofcu innus su jew webemuh la fehfime ci hitova migit ecebifika azloce se. Pideg vankede da ulaitazi gu nijise zemle hamimfis laso gahiz fem bedo hugotbe. Uli icofod ihe bucitutun nuwo ul idcu po vocze hatuv ziriskef nahtu fob tuag nelgawo."
+  },
+  "apiKey": "4e0a67775bfa7eb77b25620cf176ccaf8e4281290f99fdf0676c96cbe1a851e6",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
