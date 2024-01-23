@@ -1,0 +1,26 @@
+{
+  "name": "Mamie Larson",
+  "age": 50,
+  "address": {
+    "street": "Zosho Ridge",
+    "city": "Nezmiloca",
+    "state": "NH",
+    "zip": "71326"
+  },
+  "contact": {
+    "phone": "(578) 499-4277",
+    "servicePhone": "800858698"
+  },
+  "birthday": "1973-05-28T05:42:30.871Z",
+  "ip": "224.113.15.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Wodehe zuc lawfi ug mutzivu nez lotcuguf uc ti cozza bincin licanop zezeatu cariju neve. Amo hulmivuw nare sef sonuku ewowav wic pi nahuha ahdira romeri etehat lej dozug. Ifdij jubkit dirkow lihti jathuge cilippo faneha sat to fehip la mesjepdu kawiddeg moevufow guw. Orotu guw eve ocesom ja zu bog jad hoij am hojvawtuh vohi je.",
+    "bio": "Nagjo joefu alliz evocim gu gicaw jeofe tu he zivojo sorhazfe ucu digewade doparavo bosme usugi. Napa bucgozuv eg bi keil gar so dul ki ge kur mufeh logto tipufab. Garmozu zagow sifaco cogahme esoha dirtome botobo cufegu por zucazlis cip vu ti jab zef."
+  },
+  "apiKey": "549e3a3ff473e3fb1953c8741322d501331b50656f03a655d75d61d6e631808a",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
