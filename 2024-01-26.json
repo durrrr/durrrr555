@@ -1,0 +1,26 @@
+{
+  "name": "Ola Chavez",
+  "age": 18,
+  "address": {
+    "street": "Toren Circle",
+    "city": "Kafhefic",
+    "state": "MD",
+    "zip": "69260"
+  },
+  "contact": {
+    "phone": "(830) 506-9674",
+    "servicePhone": "800946346"
+  },
+  "birthday": "1986-07-02T00:13:54.225Z",
+  "ip": "47.129.172.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Vele liv dol zoroz mucuho vun mozebe zanzi ilvobzi ira saspuhgef ige omejupe ifuku ca bun zagapnu. Tanat de ravaduh lebes kuajeefo dillo sazfore kuh ineijvis isi olpohjac talhireji me tadduro sad ujitor. Ce av magdami va welnunce jalu vusi civubo efmena cem kilohi afemu tahulade ci unigo nem dofurieka etola. Kowufu lifnojag mejiba nok ewi hep rawaplig mu vadji gadumra fat ucsod no hosonpu.",
+    "bio": "Ro duge jouw loh dageke ejpe tuftitdu nog fojer gufem olepugco docawiuh za teb bis evotid nomukor metora. Suszo iripu ivlu dawta lojkato todpil toita ikehe reci fiowo fup lunpib jocleh zaasiniv. Riwe vefahde mujtoda ewlo iztiaza mefo elo ipvehdow apmikvor pudazo becba wumduwapa veg ofube dif wiopde."
+  },
+  "apiKey": "c761367507a0c7ec553431ae2cf8dd9f34d8c5a1bcb56922700a9ad5e3b835ca",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
