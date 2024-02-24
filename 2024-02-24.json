@@ -1,0 +1,26 @@
+{
+  "name": "Lizzie Nelson",
+  "age": 44,
+  "address": {
+    "street": "Tapbuv Turnpike",
+    "city": "Bocotpo",
+    "state": "NM",
+    "zip": "27092"
+  },
+  "contact": {
+    "phone": "(633) 688-2133",
+    "servicePhone": "800553429"
+  },
+  "birthday": "1979-02-19T22:52:24.306Z",
+  "ip": "227.165.209.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Caftal giznek zeturofo luw us udo nuczo ga ridhe wahuku rodevu ez muke tapuc. Amto rotlujto zo sif gafze sautded to pekampi cilab udgilru dej mema wo kohefi. Poow kucubfe zalkighu garebera satjonmu wujhit wi zusim uh jusmabza ahpep dupgarmal zidi liw caso iwbi.",
+    "bio": "Rizsocjor em ve sadzaj cezto kiufa merfupeb ubler cibovju fuhegnek soc mokzi. Beszicov koz cuwlethal siosawe gasuka if pil wu jefi senioji ukvume jerfisat. Al fa sigefbi mada icehocwi watdaptu pus macac wi hoguhla nogjeh ugwenloh ci hatwad gimne co tosevev."
+  },
+  "apiKey": "7f6c3ff7777e4876578a2ec8c02c18428a6a09f991ca9277cab70a0ee0f327d5",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
