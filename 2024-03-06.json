@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Hanson",
+  "age": 18,
+  "address": {
+    "street": "Zibwi Drive",
+    "city": "Nijpobu",
+    "state": "VT",
+    "zip": "09748"
+  },
+  "contact": {
+    "phone": "(400) 812-4869",
+    "servicePhone": "800932299"
+  },
+  "birthday": "1992-05-01T10:59:40.317Z",
+  "ip": "200.31.48.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Reh tuh taner viwdaoz ca etawildov kuzati tonuleg denasiuh juh unuif woz vihre aroaf nehas cokaz. It wo gujoome tumjiziw getekfi womes oklesnim itgi miwimaeg rusgin dun oz mako. Po abfap ip pe ileruv daf fija najuc ovufe napabu gegiso ocemu og zobiga dit le gifde.",
+    "bio": "Juj ifuluzra gofsa rob ojakoc gutmi pokalji laj ijvir mamiabo bogduhu vuivze reca lanla jitis acaguvate vusisaija. Pujla tijfusfov ta uriro cut jizo ga guzobub lo zepmo helrilef epidadi touliwu esvotim lupfur lowum uv. Jagrosof wezgor rarultup tiz busoc dale acamana gipefli tubemem etecemse lo pej."
+  },
+  "apiKey": "ef73670c61193f077b8c98af5c370e51f5a442b029af035345fd42fe071bb249",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
