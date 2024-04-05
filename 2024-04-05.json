@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Vargas",
+  "age": 58,
+  "address": {
+    "street": "Odoot Lane",
+    "city": "Fehobeudu",
+    "state": "IA",
+    "zip": "39944"
+  },
+  "contact": {
+    "phone": "(235) 825-9772",
+    "servicePhone": "800457669"
+  },
+  "birthday": "1973-04-23T23:39:03.296Z",
+  "ip": "122.91.167.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuk mo gih cowme biz kivuze siab fowib od maz fav da fidi ki li uzju. Fohiema ji uzej wedcetwo atudin difdo leg talwe lulfiv idiced beg gijoriv jonto mijobge. Divi lu migur latoh si so cafargu eguzuw fokfes kesolo puzir fazerpu. Febejdej sokmebgu sertateg sivow tibdocoz levov me fin asa osbo ko lu towrazu haju vojhuri. Onu rej waprup sunmiad gacos kejja var tim zis af nufoner hafjowe omawatozo napwemu namlaus.",
+    "bio": "Su zegpele zihulur dekon su sufeg rav femtebtab foha jeti dekej sipiwaav lugwuk kocewab te ija. Mez boiki nal zomcezu naf zec okefelbe himvo lom goc haze az sidem higek azvahen ropa. Sofovef teba tisis wactaas te fawcucuj soad ituebiz nu tagoaf fingi jelgiwa ho ziapi ki bucco. Wo ri mutuscuj zufeaju kuf do weewmat uce oka togesuv ga uka nejjimev vi. Sunewze nukaf biw nuasiamo padle ho weujwi mi vacehod malanoeza ujeg wucrog zudwid. Riehe hokwuegu suljefen ori tevaku wuhsufil sadu tilfawit cejga ogzeldat tibave cerde esanocic nurej taubusi."
+  },
+  "apiKey": "d92e1b8f9e66250a65e9887a6dc23d6f0589ff768875ef5128373d16a95a280f",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
