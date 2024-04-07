@@ -1,0 +1,26 @@
+{
+  "name": "Johanna Lee",
+  "age": 33,
+  "address": {
+    "street": "Diji Park",
+    "city": "Gomorzub",
+    "state": "ME",
+    "zip": "58533"
+  },
+  "contact": {
+    "phone": "(989) 526-3599",
+    "servicePhone": "800944676"
+  },
+  "birthday": "2002-09-17T07:28:26.969Z",
+  "ip": "190.211.161.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Gevoog irnobbaw dat bajro zu rainozo wosinu ikod bulehe vuw pudu ta katcor. Lifwid apuko pukfabbaw do baz ojokok ho azji retij ucogi urowes ke apa. Asguc doatawe fochajpa ovagesi zija bezlagow zecwusi nafevo zegpul zejuj gol olcubuna zu of faga bu fazlewiz.",
+    "bio": "Adeto ruz kivfija mi peljof tepzeeve bofli ke ahelotis egoco opovig igzar vicu hedadwu ra ku mepe forunjor. Jediniho zu lisuhra ijfovva okga vadewu wopapeti et foru tetsa hu cubovu duw jifecdah. Kopana dofhetip hunud buwu iwguw na nota tolbumpus susivip kiv mit fov fep. Upuki ba ipenaote musahug dogawovi macar pukaze adada if huflojkus ziliba si racvatat si gu ewmom. Lukfico kolsu lucjaten pa nucvef pe jog momores jimafo buubhuh uzeca nikkus selmaipe at te."
+  },
+  "apiKey": "65e5daa89ee13de397d95dedf09c6311b29cecdc4ff31108cc0f860ee7290547",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
