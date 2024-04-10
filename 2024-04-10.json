@@ -1,0 +1,26 @@
+{
+  "name": "Hester Cooper",
+  "age": 24,
+  "address": {
+    "street": "Sore Path",
+    "city": "Docoldem",
+    "state": "MI",
+    "zip": "07913"
+  },
+  "contact": {
+    "phone": "(340) 704-8590",
+    "servicePhone": "800192129"
+  },
+  "birthday": "1980-09-11T17:31:52.699Z",
+  "ip": "103.200.67.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Sove idra ku ohudaaj kov fo hiekeur suv li gavcod bu tibja madopniv retron. Hewwod cec uzohul egnose kim jezvaftet umma ifolaim ludossin fubfo fanfuwi heffit gubugak ujis. Ibiwa af nelnuzfo ko jusivzaj neowo urihe be perna agate dezihow miovpav calasduf pafowiha gi gobcamjih kojobfuw it. Icwe wut sis ezi hihnisfe ca ro lejuze seim necihkuw huoli ecpanpe. Hikrazowe onsaon sosiv memil nuuz dar dilu unegadgo uf je gihzaril dirtal favgep aza nil walma uwobe co.",
+    "bio": "Gofid di de wolemgin madmuf luzwo caj kaka dab not vumcid jonuc otcihje nobolaci ahta. Kios jiv suje di safdo guudiz ohgaswak de sahwa zeghoh zehagriw toven dahmu dili jid maduhab ful. Nik ror gukhaala jabsusde magiwore caamdod nav po kodfijga tutadizo le me caliwmep fi pe ikeafabuh cu. Wirvat hus okacu pesas za jopane mebsasi tig moj jinsuza siworum rij napevun."
+  },
+  "apiKey": "792c6692385e0bf3f74160f2f365b146f0c838268dd2ff8cc5be10a9b6c817c5",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
